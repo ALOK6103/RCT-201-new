@@ -1,0 +1,9 @@
+{
+  "todos": [
+    {
+      "value": "A",
+      "isCompleted": true,
+      "id": 1
+    }
+  ]
+}
